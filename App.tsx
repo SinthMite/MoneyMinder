@@ -1,5 +1,5 @@
 import React from 'react'
-import './App.css'
+import './App.scss'
 import  {MoneyInDebit}  from './Components/Finance/MoneyInDebit/MoneyInDebit.tsx'
 
 function App() {
